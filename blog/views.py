@@ -10,7 +10,7 @@ posts = [
         'date_posted':'sept 2021'
     },
     {
-        'author':'krishna gandi',
+        'author':'krishna gandhi',
         'title':'blog post 2',
         'content':'Second blog post',
         'date_posted':'oct 2021'
